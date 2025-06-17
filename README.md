@@ -25,7 +25,7 @@ pip install -r requirements.txt
 # Add Your API Key
 Create a file named config.py:
 
-OPENAI_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxxxxxx"
+GOOGLE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxx"
 
 # Run the Agent
 
