@@ -1,0 +1,10 @@
+{
+    "topic": "School",
+    "summary": "A school is an educational institution designed to provide learning spaces and learning environments for the teaching of students under the direction of teachers.  Schools may range from preschools to universities, and may be public or private.",
+    "sources": [
+        "https://en.wikipedia.org/wiki/School"
+    ],
+    "tools_used": [
+        "default_api.wikipedia"
+    ]
+}
