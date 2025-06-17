@@ -1,6 +1,7 @@
-# StudyGuide AI — Smart Academic Assistant
+# InfoMate AI
+Your Intelligent Companion for Learning & Content Creation
 
-**StudyGuide AI** is an intelligent agent built to support students, learners, and exam-prepping individuals with tailored study plans, concept explanations, and academic queries.
+**InfoMate AI** is an intelligent agent built to support students, learners, and exam-prepping individuals with tailored study plans, concept explanations, and academic queries.
 
 This assistant helps users stay focused, manage their time effectively, and learn better — all powered by cutting-edge AI.
 
